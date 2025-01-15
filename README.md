@@ -1,4 +1,4 @@
-# 🍴 Recipes App 🥗
+# 🍴 Recipes websit🥗
 
 This project is a simple React 🛠️ application built with Vite ⚡. It provides a platform to explore different recipes 🍲 categorized into "Albanian Recipes 🇦🇱" and "Indian Recipes 🇮🇳." The application features an interactive UI 🖥️ with tabs 🏷️ for navigating between categories and functionality to view 👀, edit ✏️, and delete 🗑️ recipes.
 
